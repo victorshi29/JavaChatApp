@@ -1,3 +1,3 @@
 # JavaChatApp
 
-Uses sockets to connect the server and the client to allow for messaging.
+A simple chat console application that uses sockets for two-way messaging.
